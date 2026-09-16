@@ -16,12 +16,3 @@ y = (4,5,6)
 
 #dict datatype
 cars = {"name": "Porshe", "price":12}
-
-
-
-
-
-
-
-
-
